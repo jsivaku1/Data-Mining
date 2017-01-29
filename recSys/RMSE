@@ -1,0 +1,5 @@
+rmse for item_cf: 1.235128
+rmse for user_cf: 2.771536
+rmse for user_bias: 1.031968
+rmse for item_bias: 0.998926
+rmse for global_bias.py: 1.129163
